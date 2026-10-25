@@ -4,6 +4,11 @@
       "username": "HANZZ",
       "password": "HZXDV",
       "role": "Admin"
+    },
+    {
+      "username": "AM_PREM",
+      "password": "FREE_BY_HANZZ",
+      "role": "Member"
     }
   ]
 }
