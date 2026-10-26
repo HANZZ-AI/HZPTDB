@@ -9,6 +9,11 @@
       "username": "AM_PREM",
       "password": "FREE_BY_HANZZ",
       "role": "Member"
+    },
+    {
+      "username": "tes",
+      "password": "test",
+      "role": "Member"
     }
   ]
 }
