@@ -14,6 +14,11 @@
       "username": "DENZZ",
       "password": "AMPREM",
       "role": "Admin"
+    },
+    {
+      "username": "DAPZ",
+      "password": "AMPREM",
+      "role": "Admin"
     }
   ]
 }
